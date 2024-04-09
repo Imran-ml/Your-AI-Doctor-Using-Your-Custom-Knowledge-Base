@@ -13,7 +13,7 @@
 
 AI Doctor Chat is an innovative system that leverages AI and NLP technologies to provide medical advice and answer health-related queries through natural language conversations.
 
-![Recording 2024-04-09 222541](https://github.com/Imran-ml/Your-AI-Doctor-Using-Your-Custom-Knowledge-Base/assets/149146155/3ee30614-89cc-4604-9fb7-cbe2391c17b2)
+![Recording](Recording 2024-04-09 222541.gif)
 
 
 ## Environment Setup
