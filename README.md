@@ -56,11 +56,10 @@ To use this project, clone the repository and set up the environment as follows:
 
 
 ## Usage
-
   To run the app use following command:
-      ```bash
-          python -m streamlit run app.py
-        ```
+  ```bash
+      python -m streamlit run app.py
+  ```
 
 
 ## License
