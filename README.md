@@ -1,4 +1,4 @@
-# Your AI Doctor Using Your Custom Knowledge Base
+# Your AI Doctor Using Your Custom Knowledge Base with ChatGPT OpenAI
 
 ## Table of Contents
 
